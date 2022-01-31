@@ -1,1 +1,1 @@
-Esta es una app personalizada para más sencillez
+Recuerden que si no conecta activen y desactiven el modo avión y reintenten la conexión
